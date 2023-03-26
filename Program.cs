@@ -19,4 +19,4 @@ String FraseEmBaleis = Frase
 .Replace("u", "uuu") 
 .Replace("U", "UUU");
 
-Console.WriteLine($"Em baleies:{FraseEmBaleis}");
+Console.WriteLine($"\nEm baleies:{FraseEmBaleis}");
